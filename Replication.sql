@@ -43,5 +43,5 @@ set @tblcnt = @@rowcount
 				
 			set @tblcnt = @tblcnt - 1
 			delete from @maxId_tbl
-			delete from #TablesToReplicate where id = @tbldID   
+			delete from #TablesToReplicate where id = @tbldID 
 		end
