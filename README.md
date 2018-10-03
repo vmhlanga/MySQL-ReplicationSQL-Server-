@@ -1,4 +1,4 @@
-# MySQL-Replication to SQL-Server-
+# MySQL Data Replication to Microsoft SQL Server
 
 
 My SQL Replication to Microsoft SQL Server
